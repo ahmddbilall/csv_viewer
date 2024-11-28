@@ -76,7 +76,7 @@ Upload a CSV file containing data like:
    ```
 3. Run the application:
    ```bash
-   streamlit run csv_analyzer.py
+   streamlit run app.py
    ```
 
 ---
